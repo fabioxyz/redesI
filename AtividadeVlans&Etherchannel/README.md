@@ -19,7 +19,7 @@ O objetivo principal desta atividade foi realizar a configuração lógica e fí
 ## 📸 Topologia
 > **Nota:** OPEN!!
 > 
-> ![Topologia da Rede]([https://imgur.com/a/7A8REGE])
+> ![Topologia da Rede.] https://imgur.com/a/7A8REGE
 
 ## ⚙️ Como Executar
 1. Certifica-te de que tens o **Cisco Packet Tracer** instalado.
