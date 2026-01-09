@@ -17,7 +17,7 @@ O objetivo principal desta atividade foi realizar a configuração lógica e fí
 * `README.md`: Documentação do projeto.
 
 ## 📸 Topologia
-> **Nota:** Adiciona aqui um screenshot da tua rede para que quem visita o perfil consiga ver o teu trabalho sem ter de baixar o ficheiro!
+> **Nota:** OPEN!!
 > 
 > ![Topologia da Rede]([link-da-tua-imagem-aqui.png](https://imgur.com/a/7A8REGE))
 
