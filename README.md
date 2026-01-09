@@ -15,7 +15,7 @@ Este repositório está organizado por atividades e desafios, abrangendo os segu
 ## 📂 Lista de Atividades
 Abaixo estão detalhadas algumas das principais atividades incluídas:
 
-### 1. [Nome da Atividade 1, ex: Configuração de Sub-redes]
+### 1. [ATIVIDADE 1: Vlans,EthernetChannel,Encaminhamento,Endereçamento]
 * **Ficheiro:** `AL4_PT_1(3).pka`
 * **Descrição:** Implementação de uma topologia com X routers, focada em [ex: VLSM e conectividade total].
 * **Destaque:** [ex: Configuração de rotas estáticas,gateway padrão,ethernet channel e vlans].
